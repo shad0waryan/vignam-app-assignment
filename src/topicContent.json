@@ -1,0 +1,210 @@
+[
+  {
+    "_id": "1",
+    "theoryUrl": "### Introduction to Basic Geometrical Ideas\n\nThe term ‘Geometry’ is derived from the Greek word ‘Geometron’. This has 2 equivalents. ‘Geo’ means Earth and ‘metron’ means Measurement.\n\n*Points*  \nIt is a position or location on a plane surface, which are denoted by a single capital letter.\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img1.png)\n\n\n*Line Segment*  \nIt is a part of a line with the finite length and 2 endpoints.\n\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img2.png)\n\n\nThe points A and B are called the endpoints of the segment.\n\nIt is named as:\n\nA̅B̅\n\n*Line*  \nIt is made up of infinitely many points with infinite length and no endpoint.\n\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img3.png)\n\n\nIt extends indefinitely in both directions.\n\nNamed as:\n\nA̅B̅\n\nOr sometimes\n\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img4.png)\n\n\n*Intersecting Lines  \nThe two lines that share one common point are called Intersecting Lines.\n\nThis shared point is called the point of intersection.\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img5.png)\n\n\nHere, line l and m are intersecting at point C.\n\nReal life example of intersecting lines:**\n\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img6.png)\n\n\nParallel Lines*  \nTwo or more lines that never intersect (Never cross each other) are called Parallel Lines.\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img7.png)\n\n\n\n*Real life examples of parallel lines:**\n\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img8.png)\n\n\nRay*  \nIt is a part of a line with one starting point whereas extends endlessly in one direction.\n\nRay\n\n*Real life examples of the ray are:**\n\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img9.png)\n\nCurves*  \nAnything which is not straight is called a curve.\n\n*1\\. Simple Curve* – A curve that does not cross itself.\n\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img10.png)\n\n\n*2\\. Open Curve* – Curve in which its endpoints do not meet.\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img11.png)\n\n\n*3\\. Closed Curve* – Curve that does not have an endpoint and is an enclosed figure.\n\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img12.png)\n\n\nA closed curve has 3 parts which are as follows\n\n\n![](https://www.evidyarthi.in/wp-content/uploads/2020/09/ch4-img13.png)\n\n\n*1\\. Interior of the curve\n\nIt refers to the inside/inner area of the curve.\n\nThe blue coloured area is the interior of the figure.\n\n2\\. The exterior of the curve.**\n\nIt refers to the outside / outer area of the curve.\n\nThe point marked A depicts the exterior of the curve.\n\n3\\. The boundary of the curve*\n\nIt refers to the dividing line thus it divides the interior and exterior of the curve.\n\nThe black line which is dividing the interior and exterior of the curve is the boundary.\n\nThe interior and boundary of the curve together are called the curves “region”.",
+    "videos": [
+      "https://www.youtube.com/embed/302eJ3TzJQU",
+      "https://www.youtube.com/embed/muw-MQeIkO4"
+    ],
+    "questions": [
+      {
+        "serial": "1",
+        "prompt": "What is 2+3?",
+        "optionA": "2",
+        "optionB": "4",
+        "optionC": "5",
+        "optionD": "8",
+        "answer": "C"
+      },
+      {
+        "serial": "2",
+        "prompt": "6 * 8 equals:",
+        "optionA": "14",
+        "optionB": "48",
+        "optionC": "56",
+        "optionD": "42",
+        "answer": "B"
+      }
+    ],
+    "simulations": [
+      {
+        "id": 1,
+        "simulation": "Simulation 1 for topic 1"
+      },
+      {
+        "id": 2,
+        "simulation": "Simulation 2 for topic 1"
+      },
+      {
+        "id": 3,
+        "simulation": "Simulation 3 for topic 1"
+      },
+      {
+        "id": 4,
+        "simulation": "Simulation 4 for topic 1"
+      }
+    ],
+    "sortOrder": 0,
+    "createdAt": "2022-12-20T16:24:58.987Z",
+    "updatedAt": "2022-12-20T16:24:58.987Z",
+    "name": "Introduction",
+    "chapterId": "CHP-a554eeb3-edda-48ea-a6ad-b0953c4c8daf",
+    "__v": 0
+  },
+  {
+    "_id": "2",
+    "theoryUrl": "Topic 2 Content",
+    "videos": [
+      "https://www.youtube.com/embed/JbhBdOfMEPs",
+      "https://www.youtube.com/embed/fr04p6Ar9ic"
+    ],
+    "questions": [
+      {
+        "serial": "1",
+        "prompt": "What is 4+4?",
+        "optionA": "5",
+        "optionB": "2",
+        "optionC": "4",
+        "optionD": "8",
+        "answer": "D"
+      },
+      {
+        "serial": "2",
+        "prompt": "7 * 2 equals:",
+        "optionA": "48",
+        "optionB": "14",
+        "optionC": "35",
+        "optionD": "56",
+        "answer": "B"
+      }
+    ],
+    "simulations": [
+      {
+        "id": 1,
+        "simulation": "Simulation 1 for topic 2"
+      },
+      {
+        "id": 2,
+        "simulation": "Simulation 2 for topic 2"
+      },
+      {
+        "id": 3,
+        "simulation": "Simulation 3 for topic 2"
+      },
+      {
+        "id": 4,
+        "simulation": "Simulation 4 for topic 2"
+      }
+    ],
+    "sortOrder": 0,
+    "createdAt": "2022-12-20T16:24:58.987Z",
+    "updatedAt": "2022-12-20T16:24:58.987Z",
+    "name": "Introduction",
+    "chapterId": "CHP-a554eeb3-edda-48ea-a6ad-b0953c4c8daf",
+    "__v": 0
+  },
+  {
+    "_id": "3",
+    "theoryUrl": "Topic 3 Content",
+    "videos": [
+      "https://www.youtube.com/embed/qyW2mWvvtZ8",
+      "https://www.youtube.com/embed/AkWtUOwlUgs"
+    ],
+    "questions": [
+      {
+        "serial": "1",
+        "prompt": "What is 14+4?",
+        "optionA": "3",
+        "optionB": "18",
+        "optionC": "2",
+        "optionD": "5",
+        "answer": "B"
+      },
+      {
+        "serial": "2",
+        "prompt": "3 * 4 equals:",
+        "optionA": "23",
+        "optionB": "34",
+        "optionC": "12",
+        "optionD": "78",
+        "answer": "c"
+      }
+    ],
+    "simulations": [
+      {
+        "id": 1,
+        "simulation": "Simulation 1 for topic 3"
+      },
+      {
+        "id": 2,
+        "simulation": "Simulation 2 for topic 3"
+      },
+      {
+        "id": 3,
+        "simulation": "Simulation 3 for topic 3"
+      },
+      {
+        "id": 4,
+        "simulation": "Simulation 4 for topic 3"
+      }
+    ],
+    "sortOrder": 0,
+    "createdAt": "2022-12-20T16:24:58.987Z",
+    "updatedAt": "2022-12-20T16:24:58.987Z",
+    "name": "Introduction",
+    "chapterId": "CHP-a554eeb3-edda-48ea-a6ad-b0953c4c8daf",
+    "__v": 0
+  },
+  {
+    "_id": "4",
+    "theoryUrl": "Topic 4 Content",
+    "videos": [
+      "https://www.youtube.com/embed/jC4SWFag6Qw",
+      "https://www.youtube.com/embed/n9fgcm0Pwgs"
+    ],
+    "questions": [
+      {
+        "serial": "1",
+        "prompt": "What is 41+41?",
+        "optionA": "52",
+        "optionB": "82",
+        "optionC": "42",
+        "optionD": "87",
+        "answer": "B"
+      },
+      {
+        "serial": "2",
+        "prompt": "5 * 6 equals:",
+        "optionA": "30",
+        "optionB": "12",
+        "optionC": "24",
+        "optionD": "76",
+        "answer": "A"
+      }
+    ],
+    "simulations": [
+      {
+        "id": 1,
+        "simulation": "Simulation 1 for topic 4"
+      },
+      {
+        "id": 2,
+        "simulation": "Simulation 2 for topic 4"
+      },
+      {
+        "id": 3,
+        "simulation": "Simulation 3 for topic 4"
+      },
+      {
+        "id": 4,
+        "simulation": "Simulation 4 for topic 4"
+      }
+    ],
+    "sortOrder": 0,
+    "createdAt": "2022-12-20T16:24:58.987Z",
+    "updatedAt": "2022-12-20T16:24:58.987Z",
+    "name": "Introduction",
+    "chapterId": "CHP-a554eeb3-edda-48ea-a6ad-b0953c4c8daf",
+    "__v": 0
+  }
+]

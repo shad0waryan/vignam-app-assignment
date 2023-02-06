@@ -1,0 +1,198 @@
+[
+  {
+    "_id": "CLS-0cdbcc63-668f-4012-a2b5-c6b8ff08a60a",
+    "subjects": [
+      { "_id": "SUB-6ecd4f85-6142-42f5-8fe6-3acd97747c77", "name": "English" },
+      {
+        "_id": "SUB-cf3d02a5-e7e0-46a2-b7ce-778b6e1231ad",
+        "name": "Mathematics"
+      }
+    ],
+    "sortOrder": 1,
+    "createdAt": "2023-01-03T15:32:29.261Z",
+    "updatedAt": "2023-01-03T15:32:29.261Z",
+    "name": "Class 1",
+    "__v": 0
+  },
+  {
+    "_id": "CLS-1375dd86-4691-4226-89c3-41a6b3dc32cd",
+    "subjects": [
+      { "_id": "SUB-d6d22401-cdc2-4c7d-b5b2-861acaa62943", "name": "English" },
+      {
+        "_id": "SUB-340fd4e1-85d5-43d9-ab83-3a5e48cbb690",
+        "name": "Mathematics "
+      }
+    ],
+    "sortOrder": 2,
+    "createdAt": "2023-01-06T08:05:04.608Z",
+    "updatedAt": "2023-01-06T08:05:04.608Z",
+    "name": "Class 2",
+    "__v": 0
+  },
+  {
+    "_id": "CLS-2cd8852e-62f6-4c93-ad67-345b2603dbf3",
+    "subjects": [
+      { "_id": "SUB-8c55dcc9-a3d9-466f-a7a1-1353c052c0d1", "name": "English" },
+      {
+        "_id": "SUB-0b563a2c-caf2-4fad-8fd7-36ff8cd97715",
+        "name": "Mathematics "
+      }
+    ],
+    "sortOrder": 3,
+    "createdAt": "2023-01-06T16:42:30.320Z",
+    "updatedAt": "2023-01-06T16:42:30.320Z",
+    "name": "Class 3",
+    "__v": 0
+  },
+  {
+    "_id": "CLS-820a119f-688c-4505-84f8-1146038627ef",
+    "subjects": [
+      { "_id": "SUB-8d5026a8-3662-41e7-b4e0-43e90b826d78", "name": "English" },
+      {
+        "_id": "SUB-1859c9c6-c99e-40da-be4f-a7d83c67d441",
+        "name": "Mathematics"
+      }
+    ],
+    "sortOrder": 4,
+    "createdAt": "2023-01-06T16:42:30.320Z",
+    "updatedAt": "2023-01-06T16:42:30.320Z",
+    "name": "class 4",
+    "__v": 0
+  },
+  {
+    "_id": "CLS-3ef83872-b922-4f84-8e70-64a9f11f870d",
+    "subjects": [
+      { "_id": "SUB-71bfe9e1-49fa-4d1c-a7be-a07d49544739", "name": "English" },
+      {
+        "_id": "SUB-e9d97508-f1ff-4748-a6db-0aa2b4ebfb4e",
+        "name": "Mathematics"
+      }
+    ],
+    "sortOrder": 5,
+    "createdAt": "2023-01-06T16:42:30.320Z",
+    "updatedAt": "2023-01-06T16:42:30.320Z",
+    "name": "Class 5",
+    "__v": 0
+  },
+  {
+    "_id": "CLS-c33dd3e3-9df2-4b9c-970a-dbed24aee4e4",
+    "subjects": [
+      { "_id": "SUB-b6081572-9e0d-487f-8e20-b9131617294d", "name": "English" },
+      {
+        "_id": "SUB-44460665-c731-4417-9630-f75c64d6d0eb",
+        "name": "Mathematics"
+      },
+      { "_id": "SUB-a1d3c11a-eaaf-4f1b-846e-1bc8e39d80d3", "name": "Science" }
+    ],
+    "createdAt": "2022-12-13T07:16:18.330Z",
+    "updatedAt": "2022-12-13T07:16:18.330Z",
+    "name": "Class 6",
+    "__v": 0,
+    "sortOrder": 6
+  },
+  {
+    "_id": "CLS-4717a77a-bd89-4ed3-9ca1-b4a8e125f73d",
+    "subjects": [
+      {
+        "_id": "SUB-e91e4cc0-6ac7-4511-952e-ec4b89d51992",
+        "name": "Mathematics"
+      },
+      { "_id": "SUB-eeaba272-2892-4412-8902-c9b611ae5a2a", "name": "Science" },
+      { "_id": "SUB-4f0bead0-3de1-45a0-81a7-b0d50c411118", "name": "English" }
+    ],
+    "sortOrder": 7,
+    "createdAt": "2022-12-20T16:24:58.973Z",
+    "updatedAt": "2022-12-20T16:24:58.973Z",
+    "name": "Class 7",
+    "__v": 0
+  },
+  {
+    "_id": "CLS-8f3fcd55-8e2e-4ade-a2b8-42193101d890",
+    "subjects": [
+      {
+        "_id": "SUB-888cb155-09ed-47b8-a5f6-041478598c0c",
+        "name": "Mathematics"
+      },
+      { "_id": "SUB-24511d98-8cf3-4123-997a-58d4a95ad2a8", "name": "Science" },
+      { "_id": "SUB-49981df4-b6fa-4d55-ae89-a8db64383bf4", "name": "English" }
+    ],
+    "sortOrder": 8,
+    "createdAt": "2022-12-20T16:24:58.973Z",
+    "updatedAt": "2022-12-20T16:24:58.973Z",
+    "name": "Class 8",
+    "__v": 0
+  },
+  {
+    "_id": "CLS-2601a903-bddf-4ba0-b55a-dcd092414b50",
+    "subjects": [
+      { "_id": "SUB-8951711d-3c90-4b11-ad2b-77c44ae4cc28", "name": "English" },
+      { "_id": "SUB-6d58ab80-28a5-4c68-8a3e-43d2b83d619d", "name": "Science" },
+      {
+        "_id": "SUB-fd299057-7feb-46f5-8cae-a05b569e1da1",
+        "name": "Mathematics"
+      }
+    ],
+    "sortOrder": 9,
+    "createdAt": "2023-01-10T09:10:12.110Z",
+    "updatedAt": "2023-01-10T09:10:12.110Z",
+    "name": "Class 9",
+    "__v": 0
+  },
+  {
+    "_id": "CLS-d7752670-e70f-4c36-878f-0c86a02465bf",
+    "subjects": [
+      { "_id": "SUB-ba8f54ab-9f5b-4903-87db-32a167ee680c", "name": "English" },
+      { "_id": "SUB-315a6b1b-f1ed-4128-9783-6b34a683afd8", "name": "Science" },
+      {
+        "_id": "SUB-938e70f0-14de-4c0f-a4ec-23b7befde445",
+        "name": "Mathematics"
+      }
+    ],
+    "sortOrder": 10,
+    "createdAt": "2023-01-15T10:22:07.166Z",
+    "updatedAt": "2023-01-15T10:22:07.166Z",
+    "name": "Class 10",
+    "__v": 0
+  },
+  {
+    "_id": "CLS-3e70d074-ccdb-4ac8-bb2b-2094d63ad5cb",
+    "subjects": [
+      { "_id": "SUB-5c97c255-565f-4faf-9a1b-396a65d0c528", "name": "English" },
+      { "_id": "SUB-60a89ba4-57ce-42bc-89ff-5fd869afae93", "name": "Biology" },
+      {
+        "_id": "SUB-e468330c-f479-40ea-a88b-35f692ed8a6d",
+        "name": "Chemistry"
+      },
+      { "_id": "SUB-537079b1-673b-4b84-9b7b-26908288700b", "name": "Physics" },
+      {
+        "_id": "SUB-505ca682-6255-4a8f-9bac-1c9dfe63ff05",
+        "name": "Mathematics"
+      }
+    ],
+    "sortOrder": 11,
+    "createdAt": "2023-01-15T10:22:07.166Z",
+    "updatedAt": "2023-01-15T10:22:07.166Z",
+    "name": "Class 11",
+    "__v": 0
+  },
+  {
+    "_id": "CLS-f4f6f09b-afd4-45fa-b8f3-b9571a8bd3ef",
+    "subjects": [
+      { "_id": "SUB-9c78381d-9eb2-4992-a362-c6ed24f984ac", "name": "Biology" },
+      {
+        "_id": "SUB-a7c5e9ca-80ec-480d-9899-46ebf2b374f5",
+        "name": "Chemistry"
+      },
+      { "_id": "SUB-ff702e2d-05e8-440d-a03a-6c157ceac006", "name": "Physics" },
+      {
+        "_id": "SUB-c63a99c7-541a-4794-b64d-363f6b21ad76",
+        "name": "Mathematics"
+      }
+    ],
+    "sortOrder": 12,
+    "createdAt": "2023-01-15T10:22:07.166Z",
+    "updatedAt": "2023-01-15T10:22:07.166Z",
+    "name": "Class 12",
+    "__v": 0
+  }
+]

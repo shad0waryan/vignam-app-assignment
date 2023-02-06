@@ -1,0 +1,590 @@
+[
+  {
+    "class": 1,
+    "subjects": [
+      {
+        "id": 1,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Introduction to English"
+          },
+          {
+            "id": 2,
+            "chapter": "Grammar and Vocabulary"
+          },
+          {
+            "id": 3,
+            "chapter": "Intermediate English"
+          },
+          {
+            "id": 4,
+            "chapter": "Grammar and Vocabulary"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Numbers and Operations"
+          },
+          {
+            "id": 2,
+            "chapter": "Algebra and Functions"
+          },
+          {
+            "id": 3,
+            "chapter": "HCF and LCM"
+          },
+          {
+            "id": 4,
+            "chapter": "Algebra and Functions"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 2,
+    "subjects": [
+      {
+        "id": 1,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Reading Comprehension"
+          },
+          {
+            "id": 2,
+            "chapter": "Reading Comprehension"
+          },
+          {
+            "id": 3,
+            "chapter": "Reading Comprehension"
+          },
+          {
+            "id": 4,
+            "chapter": "Writing Skills"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Geometry and Measurement"
+          },
+          {
+            "id": 2,
+            "chapter": "Surface area"
+          },
+          {
+            "id": 3,
+            "chapter": "Volumes"
+          },
+          {
+            "id": 4,
+            "chapter": "Data Analysis and Probability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 3,
+    "subjects": [
+      {
+        "id": 1,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Literature"
+          },
+          {
+            "id": 2,
+            "chapter": "Poetry"
+          },
+          {
+            "id": 3,
+            "chapter": "Article Writing"
+          },
+          {
+            "id": 4,
+            "chapter": "Public Speaking and Presentation Skills"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Linear Equations and Inequalities"
+          },
+          {
+            "id": 2,
+            "chapter": "Quadratic"
+          },
+          {
+            "id": 3,
+            "chapter": "Polynomials"
+          },
+          {
+            "id": 4,
+            "chapter": "Trigonometry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 4,
+    "subjects": [
+      {
+        "id": 2,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Creative Writing"
+          },
+          {
+            "id": 2,
+            "chapter": "Essay Writing"
+          },
+          {
+            "id": 3,
+            "chapter": "Letter Writing"
+          },
+          {
+            "id": 4,
+            "chapter": "Journalism and Media Studies"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "3d Geometry"
+          },
+          {
+            "id": 2,
+            "chapter": "Geometry"
+          },
+          {
+            "id": 3,
+            "chapter": "Vectors "
+          },
+          {
+            "id": 4,
+            "chapter": "Calculus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 5,
+    "subjects": [
+      {
+        "id": 2,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Creative Writing"
+          },
+          {
+            "id": 2,
+            "chapter": "Letter Writing"
+          },
+          {
+            "id": 3,
+            "chapter": "Essay Writing"
+          },
+          {
+            "id": 4,
+            "chapter": "Journalism and Media Studies"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "3d Geometry"
+          },
+          {
+            "id": 2,
+            "chapter": "Coordinate Geometry"
+          },
+          {
+            "id": 3,
+            "chapter": "Polynomials"
+          },
+          {
+            "id": 4,
+            "chapter": "Calculus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 6,
+    "subjects": [
+      {
+        "id": 2,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Letter Writing"
+          },
+          {
+            "id": 2,
+            "chapter": "Poetry"
+          },
+          {
+            "id": 3,
+            "chapter": "Journalism and Media Studies"
+          },
+          {
+            "id": 4,
+            "chapter": "Creative Writing"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Coordinate Geometry"
+          },
+          {
+            "id": 2,
+            "chapter": "3d Geometry"
+          },
+          {
+            "id": 3,
+            "chapter": "Geometry"
+          },
+          {
+            "id": 4,
+            "chapter": "Calculus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 7,
+    "subjects": [
+      {
+        "id": 2,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Creative Writing"
+          },
+          {
+            "id": 2,
+            "chapter": "Letter Writing"
+          },
+          {
+            "id": 3,
+            "chapter": "Essay Writing"
+          },
+          {
+            "id": 4,
+            "chapter": "Journalism and Media Studies"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Coordinate Geometry"
+          },
+          {
+            "id": 2,
+            "chapter": "Coordinate Geometry"
+          },
+          {
+            "id": 3,
+            "chapter": "Coordinate Geometry"
+          },
+          {
+            "id": 4,
+            "chapter": "Calculus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 8,
+    "subjects": [
+      {
+        "id": 2,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Creative Writing"
+          },
+          {
+            "id": 2,
+            "chapter": "Letter Writing"
+          },
+          {
+            "id": 3,
+            "chapter": "Essay Writing"
+          },
+          {
+            "id": 4,
+            "chapter": "Journalism and Media Studies"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Linear Equations and Inequalities"
+          },
+          {
+            "id": 2,
+            "chapter": "Quadratic"
+          },
+          {
+            "id": 3,
+            "chapter": "Polynomials"
+          },
+          {
+            "id": 4,
+            "chapter": "Trigonometry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 9,
+    "subjects": [
+      {
+        "id": 2,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Creative Writing"
+          },
+          {
+            "id": 2,
+            "chapter": "Letter Writing"
+          },
+          {
+            "id": 3,
+            "chapter": "Essay Writing"
+          },
+          {
+            "id": 4,
+            "chapter": "Journalism and Media Studies"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Linear Equations and Inequalities"
+          },
+          {
+            "id": 2,
+            "chapter": "Quadratic"
+          },
+          {
+            "id": 3,
+            "chapter": "Polynomials"
+          },
+          {
+            "id": 4,
+            "chapter": "Trigonometry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 10,
+    "subjects": [
+      {
+        "id": 2,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Creative Writing"
+          },
+          {
+            "id": 2,
+            "chapter": "Letter Writing"
+          },
+          {
+            "id": 3,
+            "chapter": "Essay Writing"
+          },
+          {
+            "id": 4,
+            "chapter": "Journalism and Media Studies"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Linear Equations and Inequalities"
+          },
+          {
+            "id": 2,
+            "chapter": "Quadratic"
+          },
+          {
+            "id": 3,
+            "chapter": "Polynomials"
+          },
+          {
+            "id": 4,
+            "chapter": "Trigonometry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 11,
+    "subjects": [
+      {
+        "id": 2,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Creative Writing"
+          },
+          {
+            "id": 2,
+            "chapter": "Letter Writing"
+          },
+          {
+            "id": 3,
+            "chapter": "Essay Writing"
+          },
+          {
+            "id": 4,
+            "chapter": "Journalism and Media Studies"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Linear Equations and Inequalities"
+          },
+          {
+            "id": 2,
+            "chapter": "Quadratic"
+          },
+          {
+            "id": 3,
+            "chapter": "Polynomials"
+          },
+          {
+            "id": 4,
+            "chapter": "Trigonometry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 12,
+    "subjects": [
+      {
+        "id": 2,
+        "subject": "English",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Creative Writing"
+          },
+          {
+            "id": 2,
+            "chapter": "Letter Writing"
+          },
+          {
+            "id": 3,
+            "chapter": "Essay Writing"
+          },
+          {
+            "id": 4,
+            "chapter": "Journalism and Media Studies"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "subject": "Mathematics",
+        "chapters": [
+          {
+            "id": 1,
+            "chapter": "Linear Equations and Inequalities"
+          },
+          {
+            "id": 2,
+            "chapter": "Quadratic"
+          },
+          {
+            "id": 3,
+            "chapter": "Polynomials"
+          },
+          {
+            "id": 4,
+            "chapter": "Trigonometry"
+          }
+        ]
+      }
+    ]
+  }
+]
