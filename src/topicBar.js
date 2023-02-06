@@ -15,8 +15,8 @@ function TopicBar() {
   const { currClass, currSubject, setCurrTopic } = b;
 
   return (
-    <div className="bg-bkground border-t-blackforborder h-screen w-screen">
-      <div className="flex items-center gap-4 mb-3">
+    <div className="bg-bkground border-t-blackforborder h-screen w-max px-2 ">
+      <div className="flex items-center gap-4 mb-3 pt-2">
         <img src={logo} alt="" width={"30px"} height={"40px"} />
         <div className="class__select border hover:cursor-pointer border-textblue flex ">
           <p className="text-s1 font-bold h-auto w-auto pr-4 m-0">Go To Home</p>
